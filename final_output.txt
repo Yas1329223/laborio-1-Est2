@@ -1,0 +1,18 @@
+{"author":"Yukio Mishima, John Nathan","isbn":"103342","name":"Stolen Lives: Twenty Years in a Desert Jail","price":"40.80","quantity":"100"}
+{"author":"Scott Lynch","isbn":"127455","name":"The Lies of Locke Lamora (Gentleman Bastard, #1)","price":"39.40","quantity":"100"}
+{"author":"Machado de Assis","isbn":"13497","name":"A Feast for Crows (A Song of Ice and Fire, #4)","price":"41.00","quantity":"100"}
+{"author":"Umberto Eco, William Weaver, R.C.S. Libri","isbn":"13572249","name":"Bared to You (Crossfire, #1)","price":"41.90","quantity":"100"}
+{"author":"H.W. Janson, Anthony F. Janson","isbn":"17333237","name":"Stella Bain","price":"34.10","quantity":"100"}
+{"author":"Ellen Hopkins","isbn":"270807","name":"Burned (Burned, #1)","price":"37.60","quantity":"100"}
+{"author":"Avi","isbn":"353342","name":"The Cross of Lead (Crispin, #1)","price":"35.90","quantity":"100"}
+{"author":"Julia Hoban","isbn":"4570768","name":"Willow","price":"39.40","quantity":"100"}
+{"author":"Judith Viorst, Ray Cruz","isbn":"46677","name":"Alexander and the Terrible, Horrible, No Good, Very Bad Day","price":"42.20","quantity":"100"}
+{"author":"Nora Roberts","isbn":"51362","name":"The Survivors Club","price":"40.50","quantity":"100"}
+{"author":"Ravinder Singh","isbn":"53496","name":"Walk Two Moons","price":"39.50","quantity":"100"}
+{"author":"Jay Winik","isbn":"55229","name":"April 1865: The Month That Saved America","price":"38.40","quantity":"100"}
+{"author":"Richard Feynman","isbn":"5552","name":"QED: The Strange Theory of Light and Matter","price":"42.70","quantity":"100"}
+{"author":"V.C. Andrews","isbn":"563458","name":"Fallen Hearts (Casteel, #3)","price":"43.10","quantity":"100"}
+{"author":"Christopher Moore","isbn":"5886881","name":"Dark Places","price":"39.20","quantity":"100"}
+{"author":"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms","isbn":"706","name":"America (The Book): A Citizen's Guide to Democracy Inaction","price":"43.90","quantity":"100"}
+{"author":"Kurt Vonnegut Jr.","isbn":"9594","name":"Timequake","price":"37.10","quantity":"100"}
+{"author":"Brian Herbert, Kevin J. Anderson","isbn":"99218","name":"The Machine Crusade (Legends of Dune, #2)","price":"38.30","quantity":"100"}
